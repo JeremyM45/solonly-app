@@ -103,6 +103,13 @@
   line-height: 1.5;
 }
 
+.dogimage {
+  max-width: 300px;
+  max-height: 300px;
+  margin: 0;
+  line-height: 1.5;
+}
+
 .logo {
   height: 1em;
   margin-left: 0.5rem;
