@@ -9,7 +9,7 @@ function BasicExample() {
   const router = useRouter()
   return (
     <Navbar bg="light" expand="lg">
-        <Navbar.Brand className='text-start fw-bold' href="/">Cock Benders</Navbar.Brand>
+        <Navbar.Brand className='text-start fw-bold' href="/">Solonly</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
